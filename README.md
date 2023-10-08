@@ -3,7 +3,7 @@ Aprendendo e evoluindo os ensinamentos
 
 ## © Projeto 
 
- ![Preview](/img/img-pokedex.png)
+![](/assets/img/img-pokedex.png)
 
 
 ### 💻 Tecnologias
