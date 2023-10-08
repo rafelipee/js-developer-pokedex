@@ -3,7 +3,7 @@ Aprendendo e evoluindo os ensinamentos
 
 ## © Projeto 
 
- ![Preview](/js-developer-pokedex/assets/img/Pokedex%20-%20DIO.png)
+ ![Preview](/img/img-pokedex.png)
 
 
 ### 💻 Tecnologias
